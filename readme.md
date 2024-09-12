@@ -1,5 +1,6 @@
 Запуск: 
-```make run
+```
+make run
 ```
 
 
